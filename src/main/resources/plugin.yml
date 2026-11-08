@@ -1,0 +1,13 @@
+name: FartGirlfriend
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  fartgirlfriend:
+    description: Gives you a Fart Girlfriend spawn egg.
+    usage: /fartgirlfriend
+    aliases: [fgf]
+permissions:
+  fartgirlfriend.use:
+    description: Allows use of the Fart Girlfriend spawn egg.
+    default: true
